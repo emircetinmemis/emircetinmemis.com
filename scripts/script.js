@@ -69,8 +69,8 @@ various options are set such as the strings to be typed, the speed of typing and
 delay before backspacing, and whether or not to loop the animation. */
 const typed = new Typed('.multiple-text', {
     strings: ['B.Sc. Computer Engineering Student', 'Machine Learning Specialist', 'Learner', 'Pythonist', 'Developer', 'Freelancer', 'Mentor'],
-    typeSpeed: 70,
-    backSpeed: 20,
+    typeSpeed: 90,
+    backSpeed: 35,
     backDelay: 500,
     loop: true
 });
